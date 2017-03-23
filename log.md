@@ -19,7 +19,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: April 1, Saturday
+### Day 1: April 3, 2017 Monday
 
 **Today's Progress**: .
 
